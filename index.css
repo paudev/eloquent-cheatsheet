@@ -114,3 +114,13 @@
     75%  {left:324px; top:0px;-webkit-transform: rotate(-360deg);transform:rotate(-360deg);}
     100% {left:162px; top:162px;-webkit-transform: rotate(0deg);transform:rotate(0deg);}
 }
+
+
+.nav {
+    width:100%;
+}
+
+.sticky {
+    position:fixed;
+    top:0 !important;
+}
